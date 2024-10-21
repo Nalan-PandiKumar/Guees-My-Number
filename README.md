@@ -57,7 +57,7 @@ We welcome contributions! If you have ideas for enhancements or want to report b
 
 If you have questions or feedback, you can reach out to me:
 
-- **Your Name**: [nalanpandimadurai@gmail.com](mailto: nalanpandimadurai@gmail.com)
+- **Your Name**: [NalanPandiKumar](mailto: nalanpandimadurai@gmail.com)
 - **GitHub**: [Nalan-PandiKumar](https://github.com/Nalan-PandiKumar)
 
 ## 🎊 Have Fun!
